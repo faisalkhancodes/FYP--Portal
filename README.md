@@ -263,7 +263,7 @@ This project is licensed under the ISC License.
 
 ## 📞 Support
 
-For support, email info@fypportal.com or create an issue in the repository.
+For support, email faisalkhan.codes@gmail.com or create an issue in the repository.
 
 ## 🙏 Acknowledgments
 
